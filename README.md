@@ -18,16 +18,25 @@ cd shadcn-react-template
 
 Install Dependencies
 
+Using npm:
 ```bash
 npm install
+```
+
+Using pnpm:
+```bash
+pnpm install
+```
+
+Using bun:
+```bash
+bun install
 ```
 
 Run the project
 
 ```bash
 npm run dev
+pnpm run dev
+bun run dev
 ```
-
-## Setup from scratch
-
-If you want to setup the same project from scratch, follow the instructions in this video.

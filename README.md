@@ -7,7 +7,7 @@ This template provides a minimal setup to get React working with ShadCN.
 Clone the repository
 
 ```bash
-git clone https://github.com/getparas/shadcn-react-template-ts
+git clone https://github.com/ThePeterDev07/shadcn-react-template-ts
 ```
 
 Change the directory
